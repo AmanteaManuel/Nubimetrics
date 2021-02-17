@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="ScriptCreacionBDNubimetrics.sql" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
